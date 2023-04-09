@@ -1,0 +1,16 @@
+.t-shirt img{
+    height: 250px;
+    width: 250px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.t-shirt{
+    border: 1px solid lightseagreen;
+    border-radius: 15px;
+    padding: 10px;
+    display: grid;
+    justify-content: center;
+}
+.t-shirt h4{
+    margin: 0px;
+}
